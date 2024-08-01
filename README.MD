@@ -1,7 +1,7 @@
 # Web Scaper/Crawler
 
 Most of this is learning resources for myself, It's just a basic wbe scraper, the actual script is the web_scraper_test.txt, 
-The description is found in the docstring
+The description is found in the docstring. This is strictly just for learning purposes
 
 ## Resources
 * https://beautiful-soup-4.readthedocs.io/en/latest/
